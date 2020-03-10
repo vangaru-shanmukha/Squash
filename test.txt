@@ -1,5 +1,10 @@
 hello
+<<<<<<< HEAD
 hello
 hello
 hello
 
+=======
+abcd
+efghijkl
+>>>>>>> 0c786d6... Commit 2
